@@ -17,6 +17,9 @@ var swapCase = function(str) {
 	return newArr.join('');
 };
 
-var letterCount = function(str) {
 
-};
+// var letterCount = function(str) {
+// 	for(var i = 0; i < str.length; i++) {
+		
+// 	}
+// };
